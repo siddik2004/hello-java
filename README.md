@@ -8,13 +8,13 @@ Repo Reference: https://github.com/prasanjit-/hello-java
 
 ```sh
 #Build Steps:
-echo "Compiling ... "
+echo "Compiling ........."
 javac HelloWorld.java
-echo "Execution ..."
+echo "Execution .........."
 java HelloWorld
 jar cvfe HelloWorld.jar HelloWorld *.class
 echo "============================"
-#Execution:
+#Execution: aabid
 java -jar HelloWorld.jar
 echo "============================"
 ```
